@@ -3,18 +3,18 @@
     {
       "id": 1,
       "name": "Native Article Very Long Creative Name 123456789",
-      "budget_spent": 1000,
+      "budget_spent": "$1,000",
       "impressions": 500,
-      "ctr": 1.5,
+      "ctr": "1.5%",
       "clicks": 150,
       "views": 300,
       "billable": 100,
-      "cta_rate": 2.7,
+      "cta_rate": "2.7%",
       "cta_clicks": 45,
       "avg_time": "01:15",
-      "completion_rate": 87.4,
+      "completion_rate": "87.4%",
       "conversions": 10,
-      "value": 2.00
+      "value": "$2.00"
     }
   ]
 }
